@@ -3,4 +3,4 @@ A very basic **recommender system** for **multimodal data** about food recipes. 
 
 The work was done by me and my classmate *Kevin Manella*.
 
-The dataset we used, "*Food Ingredients and Recipes Dataset with Images*", is available at [Kaggle](https://www.kaggle.com/) website [here](https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images)
+The dataset we used, "*Food Ingredients and Recipes Dataset with Images*", is available at [Kaggle](https://www.kaggle.com/) website [here](https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images).
